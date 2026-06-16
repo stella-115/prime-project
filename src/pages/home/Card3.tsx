@@ -6,7 +6,7 @@ const Card3 = () => {
   return (
     
     <div className="w-full min-h-screen">
-    <div className=" bg-[url('src/assets/img/hero/ani3.jpg')] bg-center bg-cover">
+    <div className=" bg-[url('/imgs/ani3.jpg')] bg-center bg-cover">
     <div className=" md:hidden lg:hidden bg-[url('/imgs/ani3.jpg')] w-full h-80 bg-right bg-cover"></div>
     <div className="md:w-150 w-80 h-100 md:h-150 bg-[#000000f8] flex justify-center">
       <div className="md:pl-20 pl-5 pt-8 md:pt-13">

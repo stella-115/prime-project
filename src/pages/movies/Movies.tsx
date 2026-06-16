@@ -8,7 +8,7 @@ import { TbCircleArrowUpRight, TbShoppingBag } from "react-icons/tb"
 
 const Movies = () => {
   return (
-   <div className="bg-[url('src/assets/img/hero4.jpeg')] w-full min-h-screen bg-cover bg-center flex justify-center bg-[#00050d92]">
+   <div className="bg-[url('/imgs/hero4.jpeg')] w-full min-h-screen bg-cover bg-center flex justify-center bg-[#00050d92]">
       <div className="w-[96%] ">
            <img src={hero4} alt="" className="w-100 pt-55 " />
            <h1 className="text-[#30D491] text-2xl mt-2 gap-3 flex items-center">

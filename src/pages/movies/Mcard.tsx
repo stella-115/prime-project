@@ -17,7 +17,7 @@ const Mcard = () => {
             </div >
     
             <div className="flex gap-5">
-                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/academy.jpg')] rounded-[10px]">
+                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/academy.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                    NEW SERIES
@@ -30,7 +30,7 @@ const Mcard = () => {
      
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/agent.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/agent.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                    NEW MOVIES
@@ -41,7 +41,7 @@ const Mcard = () => {
               </h1>
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/anki.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/anki.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                    NEW 
@@ -52,7 +52,7 @@ const Mcard = () => {
               </h1>
     
             </div>
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/army.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/army.jpg')] rounded-[10px]">
              
               <h1 className="text-amber-300 z-20 text-xl mt-34">
                 <TbShoppingBag/>
@@ -70,7 +70,7 @@ const Mcard = () => {
             </div >
     
             <div className="flex gap-5">
-                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/arrow.jpg')] rounded-[10px]">
+                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/arrow.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                    NEW SERIES
@@ -83,7 +83,7 @@ const Mcard = () => {
      
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/campus.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/campus.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                    NEW MOVIES
@@ -94,7 +94,7 @@ const Mcard = () => {
               </h1>
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/chrismas.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/chrismas.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                    NEW SERIES 
@@ -105,7 +105,7 @@ const Mcard = () => {
               </h1>
     
             </div>
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/citadel.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/citadel.jpg')] rounded-[10px]">
              
               <h1 className="text-amber-300 z-20 text-xl mt-34">
                 <TbShoppingBag/>
@@ -123,7 +123,7 @@ const Mcard = () => {
             </div >
     
             <div className="flex gap-5">
-                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/dirty.jpg')] rounded-[10px]">
+                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/dirty.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                    NEW SERIES
@@ -136,7 +136,7 @@ const Mcard = () => {
      
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/dororo.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/dororo.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                    NEW MOVIES
@@ -147,7 +147,7 @@ const Mcard = () => {
               </h1>
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/heist.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/heist.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                    NEW 
@@ -158,7 +158,7 @@ const Mcard = () => {
               </h1>
     
             </div>
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/fools.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/fools.jpg')] rounded-[10px]">
              
               <h1 className="text-amber-300 z-20 text-xl mt-34">
                 <TbShoppingBag/>
@@ -176,7 +176,7 @@ const Mcard = () => {
         </div >
 
         <div className="flex gap-5">
-              <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/every.jpg')] rounded-[10px]">
+              <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/every.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                NEW SERIES
@@ -189,7 +189,7 @@ const Mcard = () => {
  
         </div>
 
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/familygbese.png')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/familygbese.png')] rounded-[10px]">
           <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                NEW MOVIES
@@ -200,7 +200,7 @@ const Mcard = () => {
           </h1>
         </div>
 
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/jackryan.jpg')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/jackryan.jpg')] rounded-[10px]">
           <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                NEW SERIES 
@@ -211,7 +211,7 @@ const Mcard = () => {
           </h1>
 
         </div>
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/prettylethal2.png')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/prettylethal2.png')] rounded-[10px]">
          
           <h1 className="text-amber-300 z-20 text-xl mt-34">
             <TbShoppingBag/>
@@ -228,7 +228,7 @@ const Mcard = () => {
                 </div >
         
                 <div className="flex gap-5">
-                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/missing.jpg')] rounded-[10px]">
+                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/missing.jpg')] rounded-[10px]">
                       <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES
@@ -241,7 +241,7 @@ const Mcard = () => {
          
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/spider.png')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/spider.png')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                        NEW MOVIES
@@ -252,7 +252,7 @@ const Mcard = () => {
                   </h1>
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/she.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/she.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES 
@@ -263,7 +263,7 @@ const Mcard = () => {
                   </h1>
         
                 </div>
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/soz.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/soz.jpg')] rounded-[10px]">
                  
                   <h1 className="text-amber-300 z-20 text-xl mt-34">
                     <TbShoppingBag/>

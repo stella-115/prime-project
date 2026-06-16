@@ -8,9 +8,9 @@ const Card1 = () => {
     <div className="w-full min-h-screen">
       <div className=" md:h-15 h-0 bg-black ">  
     </div>
-    <div className=" md:h-150 bg-[url('src/assets/img/hero/brnd.jpg')] bg-center bg-cover md:flex">
+    <div className=" md:h-150 bg-[url('/imgs/brnd.jpg')] bg-center bg-cover md:flex">
 
-     <div className="md:hidden lg:hidden w-full h-80 bg-[url('src/assets/img/hero/brnd.jpg')] bg-left bg-cover"></div>
+     <div className="md:hidden lg:hidden w-full h-80 bg-[url('/imgs/brnd.jpg')] bg-left bg-cover"></div>
    
     <div className=" md:w-150 w-80 h-130 md:h-150 bg-[#000000f8] md:flex md:justify-center md:ml-150 ml-0">
       <div className="pl-5 pt-13">

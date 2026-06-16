@@ -1,6 +1,6 @@
 // import React from 'react'
 import { IoWarningOutline } from "react-icons/io5"
-import blue from "./../../assets/img/genres/bluerad.png"
+import blue from "./../../assets/img/bluerad.png"
 import prime from "./../../assets/img/primevideo.png"
 import { IoIosArrowDown } from "react-icons/io"
 import { NavLink } from "react-router-dom"

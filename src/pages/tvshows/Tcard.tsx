@@ -17,7 +17,7 @@ const Tcard = () => {
                 </div >
         
                 <div className="flex gap-5">
-                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/housemaid.jpg')] rounded-[10px]">
+                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/housemaid.jpg')] rounded-[10px]">
                       <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES
@@ -30,7 +30,7 @@ const Tcard = () => {
          
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/jack.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/jack.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                        NEW MOVIES
@@ -41,7 +41,7 @@ const Tcard = () => {
                   </h1>
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/maxton.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/maxton.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                        NEW 
@@ -52,7 +52,7 @@ const Tcard = () => {
                   </h1>
         
                 </div>
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/mentalist.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/mentalist.jpg')] rounded-[10px]">
                  
                   <h1 className="text-amber-300 z-20 text-xl mt-34">
                     <TbShoppingBag/>
@@ -70,7 +70,7 @@ const Tcard = () => {
                 </div >
         
                 <div className="flex gap-5">
-                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/missing.jpg')] rounded-[10px]">
+                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/missing.jpg')] rounded-[10px]">
                       <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES
@@ -83,7 +83,7 @@ const Tcard = () => {
          
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/spider.png')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/spider.png')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                        NEW MOVIES
@@ -94,7 +94,7 @@ const Tcard = () => {
                   </h1>
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/she.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/she.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES 
@@ -105,7 +105,7 @@ const Tcard = () => {
                   </h1>
         
                 </div>
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/soz.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/soz.jpg')] rounded-[10px]">
                  
                   <h1 className="text-amber-300 z-20 text-xl mt-34">
                     <TbShoppingBag/>
@@ -123,7 +123,7 @@ const Tcard = () => {
                 </div >
         
                 <div className="flex gap-5">
-                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/teen.jpg')] rounded-[10px]">
+                      <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/teen.jpg')] rounded-[10px]">
                       <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                        NEW SERIES
@@ -136,7 +136,7 @@ const Tcard = () => {
          
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/thebluf.jpg')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/thebluf.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                        NEW MOVIES
@@ -147,7 +147,7 @@ const Tcard = () => {
                   </h1>
                 </div>
         
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/vampire.png')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/vampire.png')] rounded-[10px]">
                   <div className="flex justify-end">
                         <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                        NEW 
@@ -158,7 +158,7 @@ const Tcard = () => {
                   </h1>
         
                 </div>
-                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/working.png')] rounded-[10px]">
+                <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/working.png')] rounded-[10px]">
                  
                   <h1 className="text-amber-300 z-20 text-xl mt-34">
                     <TbShoppingBag/>
@@ -176,7 +176,7 @@ const Tcard = () => {
             </div >
     
             <div className="flex gap-5">
-                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/tv/academy.jpg')] rounded-[10px]">
+                  <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/academy.jpg')] rounded-[10px]">
                   <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                    NEW SERIES
@@ -189,7 +189,7 @@ const Tcard = () => {
      
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/agent.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/agent.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                    NEW MOVIES
@@ -200,7 +200,7 @@ const Tcard = () => {
               </h1>
             </div>
     
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/anki.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/anki.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                     <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                    NEW 
@@ -211,7 +211,7 @@ const Tcard = () => {
               </h1>
     
             </div>
-            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/tv/army.jpg')] rounded-[10px]">
+            <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/army.jpg')] rounded-[10px]">
              
               <h1 className="text-amber-300 z-20 text-xl mt-34">
                 <TbShoppingBag/>
@@ -229,7 +229,7 @@ const Tcard = () => {
         </div >
 
         <div className="flex gap-5">
-              <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('src/assets/img/theboys.jpg')] rounded-[10px]">
+              <div className="w-80 mt-5 h-40 bg-center bg-cover bg-[url('/imgs/theboys.jpg')] rounded-[10px]">
               <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-19 z-20 bg-white rounded-tr-[10px]">
                NEW SERIES
@@ -242,7 +242,7 @@ const Tcard = () => {
  
         </div>
 
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/theoriginals.jpg')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/theoriginals.jpg')] rounded-[10px]">
           <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-22 z-20 bg-white rounded-tr-[10px]">
                NEW MOVIES
@@ -253,7 +253,7 @@ const Tcard = () => {
           </h1>
         </div>
 
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/thering.jpg')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/thering.jpg')] rounded-[10px]">
           <div className="flex justify-end">
                 <h1 className="text-black font-bold text-[12px] w-12 z-20 bg-white rounded-tr-[10px]">
                NEW 
@@ -264,7 +264,7 @@ const Tcard = () => {
           </h1>
 
         </div>
-        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('src/assets/img/thepickup.jpg')] rounded-[10px]">
+        <div className="w-80 mt-5 h-40 bg-center bg-cover pl-3 bg-[url('/imgs/thepickup.jpg')] rounded-[10px]">
          
           <h1 className="text-amber-300 z-20 text-xl mt-34">
             <TbShoppingBag/>

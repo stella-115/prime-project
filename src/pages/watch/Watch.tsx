@@ -22,7 +22,7 @@ const Watch = () => {
     <div className="w-full min-h-screen ">
         <div className="w-full h-15 bg-black">
         </div>
-             <div className="bg-[url('src/assets/img/watch/bg.jpg')] md:w-full w-80 h-80 bg-center bg-cover flex justify-end items-center">
+             <div className="bg-[url('/imgs/bg.jpg')] md:w-full w-80 h-80 bg-center bg-cover flex justify-end items-center">
              <div className="w-110 h-30 bg-whit md:mr-10 md:ml-0 ml-40">
                 <h1 className="text-black md:text-[35px] text-[20px] font-medium ">
                 Watch anywhere, anytime 

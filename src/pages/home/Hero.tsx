@@ -12,7 +12,7 @@ const Hero = () => {
 
     <div className="w-full min-h-screen bg-black md:flex justify-center ">
        <div className=" md:w-[95%] md:mt-15 pt-12 md:pt-0">
-       <div className=" md:w-full  md:h-150 bg-[url('imgs/hhero.jpg')] md:bg-center md:bg-cover ">
+       <div className=" md:w-full  md:h-150 bg-[url('/imgs/hhero.jpg')] md:bg-center md:bg-cover ">
        <div className="md:hidden lg:hidden w-full bg-cover bg-right h-60 bg-[url('imgs/hhero.jpg')]">
 
        </div>

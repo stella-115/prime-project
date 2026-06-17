@@ -13,7 +13,7 @@ const Hero = () => {
     <div className="w-full md:min-h-screen bg-black md:flex justify-center md:pt-0 pt-5 ">
        <div className=" md:w-[95%] md:mt-15 mt-0 pt-12 md:pt-0">
        <div className=" md:w-full  md:h-150 bg-[url('/imgs/hhero.jpg')] md:bg-center bg-right md:bg-cover ">
-        <div className="md:hidden lg:hidden w-60 bg-cover  bg-right h-60 bg-[url('imgs/hhero.jpg')]">
+        <div className="md:hidden lg:hidden w-100 bg-cover  bg-center h-80 bg-[url('imgs/hhero.jpg')]">
        </div>
        
     <div className="md:w-150 w-full h-110 md:h-150 bg-[#000000f8] md:flex md:justify-center ">

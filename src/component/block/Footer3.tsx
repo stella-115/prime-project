@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom"
 const Footer3 = () => {
   return (
      <div className="my-8">
-      <h1 className=" border text-[#D5D9D9] border-[#D5D9D9] mt-10 ml-6  ">
+      <h1 className=" border text-[#D5D9D9] border-[#D5D9D9] mt-10 md:ml-6 ml-0  ">
         <hr/>   
         </h1>
         <div className="flex justify-center gap-5 mt-10">

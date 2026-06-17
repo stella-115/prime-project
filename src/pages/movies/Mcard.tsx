@@ -270,7 +270,7 @@ const Mcard = () => {
                 </div>
         
                 </div>
-                 <div className="flex justify-center mt-10 mb-40">
+                 <div className="flex justify-center mt-10 mb-5">
                     <NavLink to="/tvshow">
                         <button className="w-30 h-15 bg-[#454d5893] text-white font-bold rounded-[7px] hover:bg-white hover:text-black text-[18px] ">
             See more

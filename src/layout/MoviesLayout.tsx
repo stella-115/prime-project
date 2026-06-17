@@ -1,7 +1,8 @@
 // import React from 'react'
 
 import { Outlet } from "react-router-dom"
-import { Footer, Header } from "../component/block"
+import { Header } from "../component/block"
+import Footer1 from "../component/block/Footer1"
 
 const MoviesLayout = () => {
   return (
@@ -10,7 +11,7 @@ const MoviesLayout = () => {
      
       <Outlet/>
 
-      <Footer/>
+      <Footer1/>
     </div>
   )
 }

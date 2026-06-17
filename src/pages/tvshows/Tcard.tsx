@@ -273,8 +273,8 @@ const Tcard = () => {
         </div>
 
         </div>
-        <div className="flex justify-center mt-10 mb-40">
-            <NavLink to="/">
+        <div className="flex justify-center mt-10 mb-5">
+            <NavLink to="/movies">
                   <button className="w-30 h-15 bg-[#454d5893] text-white font-bold rounded-[7px] hover:bg-white hover:text-black text-[18px] ">
             See more
         </button>

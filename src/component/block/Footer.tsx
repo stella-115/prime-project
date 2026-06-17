@@ -6,9 +6,9 @@ import logo from "./../../assets/pv_logo.png";
 
 const Footer = () => {
   return (
-    <footer className="w-full  bg-black py-6">
+    <footer className="w-full  bg-black pb-5">
       <div className="flex justify-center"> 
-    <img src={logo} alt="" className="text-white w-30 my-6" />
+    <img src={logo} alt="" className="text-white w-30 " />
 
       </div>
 

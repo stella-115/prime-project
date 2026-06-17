@@ -45,7 +45,7 @@ const Header = () => {
         </NavLink>
 
         <NavLink to="/movies">
-                 <button className="font-bold text-[15px] hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black">  Movies </button>
+                 <button className="font-bold text-[15px] hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black ">  Movies </button>
         </NavLink>
 
          <NavLink to="/tvshow">

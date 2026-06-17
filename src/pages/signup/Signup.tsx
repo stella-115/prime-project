@@ -15,10 +15,10 @@ const Signup = () => {
                  <img src={prime} alt=""  className="md:w-35 w-15"/>
                  <h1 className="md:mt-5 mt-2 font-bold md:text-[30px] text-[12px]">Get Prime</h1>
             </div>
-                        <img src={blue} alt="" className="md:w-150 md:h-50 w-50 h-15  "/>
+                        <img src={blue} alt="" className="md:w-150 md:h-50 w-65 h-15  "/>
 
            </div>
-           <div  className=" flex items-center md:gap-5 gap-2 md:w-235 w-72 md:mt-8 mt-4 md:h-20 h-7 md:pl-8 pl-4  bg-[#FFED89] ">
+           <div  className=" flex items-center md:gap-5 gap-2 md:w-235 w-85 md:mt-8 mt-4 md:h-20 h-7 md:pl-8 pl-4  bg-[#FFED89] ">
             <div className="text-black md:text-4xl text-xl">
                 <IoWarningOutline />
 
@@ -29,7 +29,7 @@ const Signup = () => {
             </div>
            </div>
 
-           <div className="md:w-235 w-72 md:min-h-100 bg-white mt-8 rounded-[10px]">
+           <div className="md:w-235 w-85 md:min-h-100 bg-white mt-8 rounded-[10px]">
             <h1 className="text-black text-[20px] font-bold pt-5 pl-5">
                 Add a Payment Method
             </h1>

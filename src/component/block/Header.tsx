@@ -340,7 +340,7 @@ const Header = () => {
         {
           show ?
           (
-            <div className="w-35 absolute rounded-2xl h-50 right-10 top-10 bg-black flex p-6 gap-4 flex-col">
+            <div className="w-35 absolute rounded-2xl h-65 right-10 top-10 bg-black flex p-6 gap-4 flex-col">
               <h1 className="text-gray-400 text-[18px] ">
                 Browse
               </h1>
@@ -364,6 +364,12 @@ const Header = () => {
               </button>
 
               </NavLink>
+
+               <NavLink to="/joinprime">
+                  <button className=" h-10 w-25 rounded-[7px] bg-[#197FD3] hover:bg-[#1A98FF] hover:shadow-2xl hover:shadow-[#1A98FF]">
+            Join Prime
+          </button>
+          </NavLink>
 
             </div>
 

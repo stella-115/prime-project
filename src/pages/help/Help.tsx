@@ -18,9 +18,9 @@ const Help = () => {
 
      </div>
        <div className="w-full min-h-screen flex justify-center">
-            <div className="w-[92%] flex ">
-                <div className="w-75 border-b border-r border-l border-gray-400  min-h-screen">
-                    <h1 className="w-75 h-15 bg-[#F2F4F6] border-b border-r border-gray-400 flex justify-center items-center font-bold text-[20px]">
+            <div className="w-[92%] md:flex">
+                <div className="md:w-75 w-full border-b border-r border-l border-gray-400  min-h-screen">
+                    <h1 className="md:w-75 w-full h-15 bg-[#F2F4F6] border-b border-r border-gray-400 flex justify-center items-center font-bold text-[20px]">
                         Prime Video Add-On <br/>Subscriptions </h1> 
                         <h1 className="flex justify-center text-[#1075b8] mt-3 text-[18px] hover:text-[#334373] ">
                             Issues Watching Prime Video<br/> Add-On Subscription While I <br/> Travel
@@ -40,19 +40,19 @@ const Help = () => {
                     <h1 className="flex justify-center text-[#1075b8] mt-3 text-[18px] hover:text-[#334373]">
                             Paying for Prime Video Add-On<br/> Subscription with Gift Cards
                         </h1>
-                        <h1 className="w-75 h-12 bg-[#F2F4F6] border-b border-t border-r border-gray-400 pl-4 flex items-center text-[#1075b8] hover:text-[#334373]  text-[20px] gap-23">
+                        <h1 className="md:w-75 w-full h-12 bg-[#F2F4F6] border-b border-t border-r border-gray-400 pl-4 flex items-center text-[#1075b8] hover:text-[#334373]  text-[20px] gap-23">
                         See All Help topic 
                         <span className="text-gray-400 text-[30px]"><IoIosArrowForward /> 
                             </span></h1> 
-                        <div className="w-75 bg-[#F2F4F6] py-6 border-r border-gray-400 ">
-                              <h1 className="mx-7 w-60 h-12 border border-gray-400 hover:border-green-500 bg-white rounded-[3px]">
+                        <div className="md:w-75 w-full bg-[#F2F4F6] py-6 border-r border-gray-400 ">
+                              <h1 className="mx-7 md:w-60 w-80 h-12 border border-gray-400 hover:border-green-500 bg-white rounded-[3px]">
                           <h1 className="flex items-center gap-1 pl-3  py-3">
                              <span className="text-[22px] font-extrabold"> <IoSearchOutline/> </span> 
                               <input type="text" placeholder="Search Help" className="placeholder:font-medium placeholder:text-[17px] outline-none " />
                           </h1>
                         </h1>
                         <NavLink to="/joinprime">
-                             <button className=" ml-7 mt-3 rounded-[3px] w-30 h-12 text-white bg-gray-800 hover:bg-gray-500 font-bold">
+                             <button className=" ml-7 mt-3 rounded-[3px] md:w-30 w-80 h-12 text-white bg-gray-800 hover:bg-gray-500 font-bold">
                             Contact Us
                         </button>
 

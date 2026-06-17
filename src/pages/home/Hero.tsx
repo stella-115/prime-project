@@ -16,7 +16,7 @@ const Hero = () => {
        <div className="md:hidden lg:hidden w-full bg-cover bg-right h-60 bg-[url('imgs/hhero.jpg')]">
 
        </div>
-    <div className="md:w-150 w-80 h-130 md:h-150 bg-[#000000f8] md:flex md:justify-center ">
+    <div className="md:w-150 w-full h-130 md:h-150 bg-[#000000f8] md:flex md:justify-center ">
       <div className=" pl-5 pt-13">
         <h1 className=" text-white text-[30px] md:text-[50px] font-bold md:leading-15 leading-9">
           Welcome to Prime Video
@@ -25,21 +25,21 @@ const Hero = () => {
           Enjoy exclusive Amazon Originals as well as popular movies and TV shows for NGN 2,300/month. Watch now, cancel anytime.
         </h1>
         <NavLink to="/joinprime">
-        <button className="md:w-80 w-70 h-12 md:h-15 bg-white rounded-[10px] md:mt-12 mt-6 font-bold md:text-[18px] ">
+        <button className="md:w-80 w-80 h-12 md:h-15 bg-white rounded-[10px] md:mt-12 mt-6 font-bold md:text-[18px] ">
           Prime Video Member? Sign in
         </button>
            
         </NavLink>
 
         <div className="text-white flex items-center gap-5 mt-7">
-          <span className="md:w-30 w-25"> <hr/> </span>
+          <span className="md:w-30 w-30"> <hr/> </span>
           or
-          <span className="md:w-30 w-25"> <hr/> </span>
+          <span className="md:w-30 w-30"> <hr/> </span>
 
         </div>
 
          <NavLink to="/joinprime">
-        <button className="md:w-80 w-70 h-12 md:h-15 bg-white rounded-[10px] md:mt-12 mt-6 font-bold md:text-[18px] ">
+        <button className="md:w-80 w-80 h-12 md:h-15 bg-white rounded-[10px] md:mt-12 mt-6 font-bold md:text-[18px] ">
           Start your 7-days free trail
         </button>
            

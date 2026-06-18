@@ -270,7 +270,7 @@ const Movies = () => {
     </Swiper>
         </div>
 
-        <div className=' md:hidden lg:hidden'>
+        <div className=' md:hidden lg:hidden bg:black'>
              <Swiper
       spaceBetween={50}
        modules={[ Pagination, Autoplay]}

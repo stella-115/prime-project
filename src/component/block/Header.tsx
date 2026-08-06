@@ -100,14 +100,14 @@ const Header = () => {
             {  
             show3 ?
             (
-              <div className="flex items-center justify-center gap-2 hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black" onClick={dropdown3}>
+              <div className="flex items-center justify-center gap-2 hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black" onMouseLeave={dropdown3}>
                 EN <span className="text-[19px]"><IoIosArrowUp /> </span>
 
               </div>
             )
             :
             (
-              <div className="flex items-center justify-center gap-2 hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black" onClick={dropdown3}>
+              <div className="flex items-center justify-center gap-2 hover:w-20 hover:h-10 hover:rounded-[10px] hover:bg-white hover:text-black" onMouseEnter={dropdown3}>
                  EN <span className="text-[19px]">  <IoIosArrowDown/> </span>
 
               </div>
@@ -184,7 +184,7 @@ const Header = () => {
           show1 ?
           (
            <NavLink to="/genres">
-               <div className="hover:bg-white hover:text-black hover:w-9 hover:h-9 hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[19px] text-white" onClick={dropdown1}>
+               <div className="hover:bg-white hover:text-black hover:w-9 hover:h-9 hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[19px] text-white" onMouseLeave={dropdown1}>
              <TbGridDots/> 
 
            </div>
@@ -195,7 +195,7 @@ const Header = () => {
           )
           :
          (
-            <div className="hover:bg-white hover:text-black hover:w-9 hover:h-9 hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[19px] text-white" onClick={dropdown1}>
+            <div className="hover:bg-white hover:text-black hover:w-9 hover:h-9 hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[19px] text-white" onMouseEnter={dropdown1}>
              <TbGridDots/> 
              </div>
           )
@@ -255,13 +255,13 @@ const Header = () => {
               {
                 show2 ?
                 (
-                  <div className="hover:bg-white hover:text-[#456782] hover:w-10 hover:h-10  hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[35px] text-[#456782] " onClick={dropdown2}>
+                  <div className="hover:bg-white hover:text-[#456782] hover:w-10 hover:h-10  hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[35px] text-[#456782] " onMouseLeave={dropdown2}>
                      <IoMdContact/>
                   </div>
                 )
                 :
                 (
-                  <div className="hover:bg-white hover:text-[#456782] hover:w-10 hover:h-10  hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[35px] text-[#456782] " onClick={dropdown2}>
+                  <div className="hover:bg-white hover:text-[#456782] hover:w-10 hover:h-10  hover:items-center hover:flex hover:justify-center hover:rounded-[100px] hover:animate-none text-[35px] text-[#456782] " onMouseEnter={dropdown2}>
                      <IoMdContact/>
                   </div>
                 )
@@ -322,14 +322,14 @@ const Header = () => {
             {
           show ?
           (
-            <div className=" flex items-center justify-center font-bold pr-4" onClick={dropdown}>
+            <div className=" flex items-center justify-center font-bold pr-4" onMouseLeave={dropdown}>
             Menu <IoIosArrowDown/>
 
           </div>
           )
           :
           (
-            <div className="flex items-center justify-center font-bold pr-4" onClick={dropdown}>
+            <div className="flex items-center justify-center font-bold pr-4" onMouseEnter={dropdown}>
             Menu <IoIosArrowUp />
 
           </div>

@@ -12,6 +12,7 @@ import t05 from "../../assets/t05.png"
 import { Pagination, Autoplay } from 'swiper/modules';
 import "swiper/css/pagination"
 import "swiper/css/autoplay"
+// import "swiper/css/navigation"
 import { TbCircleArrowUpRight, TbShoppingBag } from 'react-icons/tb';
 import { MdOutlineInfo } from 'react-icons/md';
 import { GoPlus } from 'react-icons/go';
